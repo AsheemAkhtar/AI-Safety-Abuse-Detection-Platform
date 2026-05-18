@@ -1,0 +1,10 @@
+joblib
+dotenv
+groq
+fastapi
+uvicorn
+jinja2
+python-multipart
+sentence-transformers
+scikit-learn
+mangum
